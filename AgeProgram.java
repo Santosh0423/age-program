@@ -1,5 +1,6 @@
 // AgeProgram.java
-// This program asks the user for their age and tells them their age category.
+// this program asks user for the age 
+// this tells them their age catefory
 // Example used for Git and GitHub exercise.
 
 import java.util.Scanner;
